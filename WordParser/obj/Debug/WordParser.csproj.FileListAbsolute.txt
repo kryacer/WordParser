@@ -1,0 +1,12 @@
+C:\Users\Admin\source\repos\WordParser\WordParser\bin\Debug\WordParser.exe.config
+C:\Users\Admin\source\repos\WordParser\WordParser\bin\Debug\WordParser.exe
+C:\Users\Admin\source\repos\WordParser\WordParser\bin\Debug\WordParser.pdb
+C:\Users\Admin\source\repos\WordParser\WordParser\obj\Debug\WordParser.csprojResolveAssemblyReference.cache
+C:\Users\Admin\source\repos\WordParser\WordParser\obj\Debug\WordParser.WordParser.resources
+C:\Users\Admin\source\repos\WordParser\WordParser\obj\Debug\WordParser.Properties.Resources.resources
+C:\Users\Admin\source\repos\WordParser\WordParser\obj\Debug\WordParser.csproj.GenerateResource.Cache
+C:\Users\Admin\source\repos\WordParser\WordParser\obj\Debug\WordParser.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\WordParser\WordParser\obj\Debug\WordParser.exe
+C:\Users\Admin\source\repos\WordParser\WordParser\obj\Debug\WordParser.pdb
+C:\Users\Admin\source\repos\WordParser\WordParser\bin\Debug\xNet.dll
+C:\Users\Admin\source\repos\WordParser\WordParser\obj\Debug\WordParser.csproj.ResolveComReference.cache
